@@ -1,0 +1,7 @@
+{
+    "name": "Word Notifications",
+    "version": "1.0.0",
+    "description": "Marks messages containing the specified words as notifications (pings), and displays a toast (toggleable).",
+    "author": "convicted tomatophile",
+    "license": "MIT"
+}
